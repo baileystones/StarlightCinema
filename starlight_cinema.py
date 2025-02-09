@@ -1,28 +1,3 @@
-# Overview:
-# -In this program, I have created a movie theater employee database in MySQL Workbench using SQL. It includes various pieces of information about the employees, as well as the training
-# level of the Team Member employees. Using python in VSCode, we are pulling Team Member employees from that database and listing who needs to be concessions trained. 
-# The purpose of the code is to demonstrate the integration of an SQL databse with commands in Python. 
-# To use the program, simply run the Python file in Visual Studio Code. 
-#
-#[Software Demo Video](http://youtube.link.goes.here)
-#
-# Relational Database:
-# -I am using
-# Development Environment:
-# - I 
-#
-#{Describe the programming language that you used and any libraries.}
-#
-# Useful Websites:
-#- [Web Site Name](http://url.link.goes.here)
-#- [Web Site Name](http://url.link.goes.here)
-#
-# Future Work:
-#
-# -I want to add more prompts in Python to pull data with. 
-# -I want to clean up the appearance of the tables within MySQL itself. 
-# -I would like to create a bigger database with employees from various franchise locations. 
-
 import mysql.connector
 
 # Establishing connection to MySQL database
