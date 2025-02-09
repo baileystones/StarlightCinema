@@ -3,7 +3,7 @@ In this program, I have created a movie theater employee database in MySQL Workb
 
 To run the program, run the Python file (starlight_cinema.py) in Visual Studio Code with access to the SQL database file. The program will then retrieve the list of Team Member employees who need concessions training.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/dXfzX9-__vM))
 
 # Relational Database
 
