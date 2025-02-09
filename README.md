@@ -28,6 +28,6 @@ The program is written in Python through the editor Visual Studio Code. I create
 
 # Future Work
 
--Add more prompts in Python to pull data with
--Improve the appearance of tables within MySQL 
--Expand the database to include employees from multiple franchise locations
+- Add more prompts in Python to pull data with
+- Improve the appearance of tables within MySQL 
+- Expand the database to include employees from multiple franchise locations
